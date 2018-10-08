@@ -19,3 +19,5 @@ def swap_elements_from_to(array, index, destination_index)
   array[destination_index] = array[index]
   array
 end
+
+swap_elements_from_to(["a", "b", "c"],0,2)
