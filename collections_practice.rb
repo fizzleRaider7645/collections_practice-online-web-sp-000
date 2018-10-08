@@ -1,1 +1,2 @@
-class Arry
+class Array
+end
