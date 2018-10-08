@@ -3,4 +3,5 @@ class Array
     prc.new { |x, y| x <=> y }
     until self
   end
+  end
 end
