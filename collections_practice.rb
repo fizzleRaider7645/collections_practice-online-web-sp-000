@@ -3,3 +3,4 @@ def sort_array_asc(array)
   i = 0
   while i < array.length
 end
+end
