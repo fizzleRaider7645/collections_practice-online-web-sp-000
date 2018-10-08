@@ -42,6 +42,7 @@ end
 def add_s(array)
   array.each_with_index do |word, idx|
     unless idx == 1
+      word << "s"
     end
   end
 end
