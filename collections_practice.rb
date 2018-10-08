@@ -19,4 +19,3 @@ def swap_elements_from_to(array, index, destination_index)
 
 end
 
-p swap_elements_from_to(["a", "b", "c"],0,2)
