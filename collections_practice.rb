@@ -1,3 +1,3 @@
-def sort_array_asc(Array)
-  self.sort { |x, y| x <=> y }
+def sort_array_asc(array)
+  rrayrt { |x, y| x <=> y }
 end
