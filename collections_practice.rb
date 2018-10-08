@@ -20,4 +20,4 @@ def swap_elements_from_to(array, index, destination_index)
   array
 end
 
-swap_elements_from_to(["a", "b", "c"],0,2)
+p swap_elements_from_to(["a", "b", "c"],0,2)
